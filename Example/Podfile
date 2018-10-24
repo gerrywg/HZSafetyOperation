@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'HZSafetyOperation_Example' do
+  pod 'HZSafetyOperation', :path => '../'
+
+  target 'HZSafetyOperation_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
