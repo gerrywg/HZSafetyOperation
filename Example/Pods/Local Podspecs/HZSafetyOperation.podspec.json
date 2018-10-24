@@ -1,0 +1,22 @@
+{
+  "name": "HZSafetyOperation",
+  "version": "0.1.0",
+  "summary": "A short description of HZSafetyOperation.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/gerrywg/HZSafetyOperation",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "gerrywg": "chwanggang@msn.com"
+  },
+  "source": {
+    "git": "https://github.com/gerrywg/HZSafetyOperation.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HZSafetyOperation/Classes/**/*"
+}

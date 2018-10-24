@@ -1,0 +1,6 @@
+framework module HZSafetyOperation {
+  umbrella header "HZSafetyOperation-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - HZSafetyOperation (0.1.0)
+
+DEPENDENCIES:
+  - HZSafetyOperation (from `../`)
+
+EXTERNAL SOURCES:
+  HZSafetyOperation:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HZSafetyOperation: d12d6b0ec56e32d856213f27e82b4a68f68f1dff
+
+PODFILE CHECKSUM: e6acb80deb9ba26e8f23e29c302754c60e8b5bd5
+
+COCOAPODS: 1.5.0
